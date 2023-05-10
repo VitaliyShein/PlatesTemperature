@@ -7,7 +7,7 @@ using namespace std;
 
 int main()
 {
-    int plates[5][6];
+    float plates[5][6];
 
     // левый бок
     plates[3][0] = 50;
